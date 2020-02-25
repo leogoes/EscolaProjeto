@@ -1,0 +1,15 @@
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\bin\Debug\Escola.Infrastructure.dll.config
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\bin\Debug\Escola.Infrastructure.dll
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\bin\Debug\Escola.Infrastructure.pdb
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\bin\Debug\Escola.Domain.dll
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\bin\Debug\Escola.Domain.pdb
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\obj\Debug\Escola.Infrastructure.csprojAssemblyReference.cache
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\obj\Debug\Escola.Infrastructure.csproj.CopyComplete
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\obj\Debug\Escola.Infrastructure.dll
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\obj\Debug\Escola.Infrastructure.pdb
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\obj\Debug\Escola.Infrastructure.Migrations.IniciandoMigracao.resources
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Infrastructure\obj\Debug\Escola.Infrastructure.csproj.GenerateResource.cache

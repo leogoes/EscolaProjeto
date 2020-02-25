@@ -1,0 +1,4 @@
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Domain\bin\Debug\Escola.Domain.dll
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Domain\bin\Debug\Escola.Domain.pdb
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Domain\obj\Debug\Escola.Domain.dll
+C:\Users\leonardo.souza\source\repos\Escola\Escola.Domain\obj\Debug\Escola.Domain.pdb
